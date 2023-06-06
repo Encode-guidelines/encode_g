@@ -9,9 +9,3 @@ toc_title: Teaching resources
 hero_height: is-small
 ---
 
-# teaching_resources
-
-* SC
-* CICCIO
-
-## perfetto
