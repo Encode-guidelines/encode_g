@@ -14,7 +14,7 @@
       link: /corpus_db/
       items:
        - name: 3.1.1 Creation
-       - link: /another-example-item/
+       - link: /teaching_resources#3.1.1 Creation/
        - name: 3.1.2 Publication
        - link: /another-example-item/
        - name: 3.1.3 Sharing
@@ -53,7 +53,7 @@
        - name: 3.4.3 MARKUP
        - link: /example/
     - name: 3.5 Bibliographies
-      link: /bibliographies/
+      link: /teaching_resources#3.5 Bibliographies/
 - label: 4
   items:
     - name: Guide to terminoloy
